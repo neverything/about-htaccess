@@ -1,4 +1,4 @@
-## 1. Make sure you have a valid SSL certificate
+## 1. Make sure you have a valid SSL certificate 🔐
 
 All modern hosting companies offer free [Let's encrypt](https://letsencrypt.org/) certificates. If you aren't sure, check with your hosting company.
 
@@ -18,4 +18,4 @@ The following rule should be placed on top or close to the top of your `.htacces
 </IfModule>
 ```
 
-That's it, your site will now redirect all traffic to `https://` and allow secure browsing.
+That's it, your site will now redirect all traffic to `https://` and allow secure browsing ❤️.
