@@ -1,2 +1,10 @@
 theme: jekyll-theme-cayman
 title: Redirect to https with .htaccess
+twitter_username: neverything
+github_username: neverything
+description: >-
+  Redirect all traffic to https using htaccess. Secure your users
+  with the snippet provided here. All you need is an SSL cert and
+  a few lines in your htaccess.
+google_analytics_tracking_id: UA-64935-12 
+ 
